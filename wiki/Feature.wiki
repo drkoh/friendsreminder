@@ -1,0 +1,15 @@
+#labels Phase-Requirements,Featured
+= Introduction =
+
+This document is to describe what feature(s) will be included in this application.
+
+= Details =
+  * Friends management
+    * Add friend by hand
+    * Import friend from phone book
+  * Reminder setting
+    * Set contact interval
+    * Set birthday
+    * Set other memorial date
+  * Other
+    * If the friend is imported from the phone book, when the user has called or messaged the friend, it makes count as a contact with this friend, and the timer for the reminder should be reset.
